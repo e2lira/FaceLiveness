@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OHIx69dCbDg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin DELL\\Documents\\Proyectos\\FaceLiveness\\src\\Application\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin DELL\\.nuget\\packages\\emgu.cv\\4.12.0.5764\\emgu.cv.4.12.0.5764.nupkg.sha512",
+    "C:\\Users\\Admin DELL\\.nuget\\packages\\emgu.cv.bitmap\\4.12.0.5764\\emgu.cv.bitmap.4.12.0.5764.nupkg.sha512",
+    "C:\\Users\\Admin DELL\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0\\microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "C:\\Users\\Admin DELL\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
