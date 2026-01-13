@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "UI.WinForms": {
+      "commandName": "Project"
+    }
+  }
+}
