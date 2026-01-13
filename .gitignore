@@ -1,0 +1,7 @@
+# Visual Studio temporales
+.vs/
+[Bb]in/
+[Ob]j/
+*.user
+*.suo
+*.sln.docstates
